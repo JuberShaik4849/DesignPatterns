@@ -1,9 +1,9 @@
 # DesignPatterns
 Design the code that will convert JSON data input  to SQL query as output using design patterns
 
-#Description
-Read the JSON file that is given as input 
-Convert it into SQL query by using one of design patterns 
+# Description
+1)Read the JSON file that is given as input 
+2)Convert it into SQL query by using one of design patterns 
 
 # Prerequisites:
 This project requires following tools need to be installed in your laptop / pc:
