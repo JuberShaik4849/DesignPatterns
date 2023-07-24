@@ -1,0 +1,1 @@
+{"columns":[{"operator":"IN","fieldName":"column1","fieldValue":"value"},{"operator":"Equal","fieldName":"column2","fieldValue":"value"},{"operator":"LIKE","fieldName":"column3","fieldValue":"value"}]}
